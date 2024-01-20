@@ -1,4 +1,4 @@
-# Sales forecasting system for Warehousing 🏬
+# 💰 Sales forecasting system for Warehousing 🏬
 
 We want to set up our company's warehouse in another location and we need to estimate the rate of sales, which has been increasing since the company's creation, for the next few months in order to provide the space we will need.
 
