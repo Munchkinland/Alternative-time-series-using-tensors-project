@@ -1,4 +1,8 @@
-# Time Series Analysis with ARIMA Model
+# Sales forecasting system
+
+We want to set up our company's warehouse in another location and we need to estimate the rate of sales, which has been increasing since the company's creation, for the next few months in order to provide the space we will need.
+
+![_fbc210f9-5784-4b81-8d49-82f9b26c1b24](https://github.com/Munchkinland/Alternative-time-series-using-tensors-project/assets/92251234/597b3eb9-9192-4fad-b19c-c8fa51491b15)
 
 This project focuses on time series analysis using the ARIMA (AutoRegressive Integrated Moving Average) model. The dataset used for this analysis is a time series of daily sales.
 
